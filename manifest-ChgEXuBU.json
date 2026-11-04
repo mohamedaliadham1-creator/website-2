@@ -1,0 +1,17 @@
+{
+  "name": "ECOMIND — Smart Environmental Platform",
+  "short_name": "ECOMIND",
+  "description": "Interactive environmental awareness, science lab, sustainable calculators, and future infographic platform for the Green Minds Competition.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071A35",
+  "theme_color": "#071A35",
+  "icons": [
+    {
+      "src": "/assets/images/hero-earth.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
